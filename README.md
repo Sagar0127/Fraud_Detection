@@ -7,7 +7,7 @@ calibration data and tested on the validation data. This case requires both stat
 creativity/judgment. We recommend you spend time on both fine-tuning and interpreting the 
 results of your machine learning model
 
-# Candidate Expectations
+# Goal
 Your task is to execute the process for proactive detection of fraud while answering following 
 questions.
 1. Data cleaning including missing values, outliers and multi-collinearity. 
